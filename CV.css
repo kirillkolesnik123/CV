@@ -112,19 +112,6 @@ td
     font-weight:bold;
     }
 
-#company-name
-{
-    height:2px;
-    text-decoration:underline;
-    }
-#job-title
-{
-    height: 5px;
-    }
-.job-duration
-{
-    float:right;
-    }
 #heading
 {
     font-weight:bold;
